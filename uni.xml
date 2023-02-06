@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T06:12:39.975Z" agent="5.0 (Windows)" etag="KJIAVIwJ3M1XcacMSmYv" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:14:49.628Z" agent="5.0 (Windows)" etag="fOGwm2doYigvOCVzwuaz" version="20.8.16" type="github" pages="4">
   <diagram name="Four Year Overview" id="L2RynZWYjBk2NUUwTNVj">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="840" background="none" math="0" shadow="0">
       <root>
@@ -824,7 +824,7 @@
           <mxGeometry x="-720" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZkgU0-EwLq9lqEDUSSE-67" value="Approved Technical Electives (bold = me likey)" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="715" width="1080" height="665" as="geometry">
+          <mxGeometry x="-1100" y="715" width="1100" height="665" as="geometry">
             <mxRectangle x="-1100" y="715" width="205" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -920,7 +920,7 @@
           <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZkgU0-EwLq9lqEDUSSE-144" value="Computer Science Electives" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="cZkgU0-EwLq9lqEDUSSE-67">
-          <mxGeometry x="580" y="22.5" width="500" height="602.5" as="geometry" />
+          <mxGeometry x="580" y="22.5" width="520" height="602.5" as="geometry" />
         </mxCell>
         <mxCell id="cZkgU0-EwLq9lqEDUSSE-145" value="&lt;div&gt;&amp;lt;|COMP 2150|&amp;gt;&lt;/div&gt;&lt;div&gt;Object Orientation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="cZkgU0-EwLq9lqEDUSSE-144">
           <mxGeometry x="20" y="42.5" width="140" height="60" as="geometry" />
@@ -978,6 +978,9 @@
         </mxCell>
         <mxCell id="cZkgU0-EwLq9lqEDUSSE-166" value="&lt;div&gt;&amp;lt;|COMP 4710|&amp;gt;&lt;/div&gt;&lt;div&gt;Introduction to Data Mining&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="cZkgU0-EwLq9lqEDUSSE-144">
           <mxGeometry x="340" y="522.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZkgU0-EwLq9lqEDUSSE-167" value="&lt;div align=&quot;center&quot;&gt;TODO:&lt;font style=&quot;font-size: 12px;&quot;&gt; Make and run a script to change the &amp;lt;|THING CODE|&amp;gt; format (right) into links (left). Should be easy regex string replace inside xml :)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;align=center;verticalAlign=middle;spacingLeft=4;spacingTop=4;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="370" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
