@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T17:19:31.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bt3lCkEEyRjnbqNl2e2X" version="20.8.20" type="github"><diagram name="Page-1" id="AkKLmPJNnaoDvkJWjcxk">ddG9DoMgEADgp2FHsQm7te3SyaEzkSuQoGeQRtunrwasJbYLge/u+DkIK9vp7ESvryjBkpzKibAjyXPO6Twu8AxQ8CKAckYGyjaozQsixjr1MBKGJNEjWm/6FBvsOmh8YsI5HNO0O9r01F4o2EHdCLvXm5Fex2cd6OYXMEqvJ2c0RlqxJkcYtJA4fhGrCCsdog+zdirBLr1b+xLqTn+in4s56PyPgnmy7T0vkg9i1Rs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-15T17:32:06.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VixnYF6V1V8RNHbs63SK" version="20.8.20" type="github" pages="2">
+  <diagram name="Page-1" id="AkKLmPJNnaoDvkJWjcxk">
+    <mxGraphModel dx="1956" dy="1076" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7fK4iQ0TV-qlnAj_ztaI" name="Page-2">
+    <mxGraphModel dx="800" dy="440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h7UwSaR3J4pmbzhow-FZ-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Points to include&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;This is a list of things to mention:&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Provide &lt;i&gt;introspective&amp;nbsp;&lt;/i&gt;awareness of issues.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Facts pertaining&amp;nbsp;to social media use (fair representation: good + bad)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Display &lt;u&gt;small&lt;/u&gt;&amp;nbsp;&lt;u&gt;easy&lt;/u&gt;&amp;nbsp;steps to take, which are largely non-intrusive.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Issues to ask reader to consider include:&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Time Spend&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Value Gained&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ask how much comparison is caused by social media.&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ask if the comparison leads to a negative emotional experience.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ask the reader about other people they know who have had positive experiences without social media.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Display alternative ways to spend time.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Ask the reader to come up with them.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Be concrete:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;DON&#39;T claim that social media is the cause of all problems mentioned.&lt;/li&gt;&lt;li&gt;DON&#39;T claim that removing social media fixes all problems mentioned.&lt;/li&gt;&lt;li&gt;DON&#39;T claim that the only option is to remove social media.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ask about:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;If the time spend reflects the value gained&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="16" y="74" width="463" height="374" as="geometry" />
+        </mxCell>
+        <mxCell id="h7UwSaR3J4pmbzhow-FZ-2" value="&lt;h1&gt;Keep in mind&lt;/h1&gt;&lt;p&gt;Stages of change are continuous, and people jump around:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pre-contemplative&lt;/li&gt;&lt;li&gt;Contemplation&lt;/li&gt;&lt;li&gt;Determination&lt;/li&gt;&lt;li&gt;Action (actually do a change)&lt;/li&gt;&lt;li&gt;Maintenance&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496" y="78" width="345" height="335" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
