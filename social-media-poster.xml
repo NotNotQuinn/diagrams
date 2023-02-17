@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T21:34:56.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zdtIamVYB6XckgtCYSNI" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-17T17:57:19.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c1AkoFTR2lQ4e7u3hj3K" version="20.8.20" type="github" pages="2">
   <diagram name="poster" id="AkKLmPJNnaoDvkJWjcxk">
-    <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="283" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,28 +13,28 @@
         <mxCell id="wjWPv7xuz2TdYhpFKJe6-8" value="&lt;h1&gt;Self-Questionnaire&lt;/h1&gt;&lt;p&gt;Here is a series of questions to ask yourself which may help you determine how much of an issue your phone/social media use is:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Realistically, how much time do you spend on your phone each day?&lt;/li&gt;&lt;li&gt;Think of 3 things that occur commonly while using your phone that you makes you react positively in the moment. (i.e. joy, happiness, pride, fulfillment, etc.)&lt;/li&gt;&lt;li&gt;Now think of 3 more common things while using your phone that make you react negatively in the moment. (i.e. sadness, loneliness, worthlessness, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="470" y="120" width="340" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-3" value="Negative (-)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-3" value="Negative (-)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="480" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-4" value="With Phone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-4" value="With Phone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-5" value="Without Phone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-5" value="Without Phone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="680" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-9" value="Positive (+)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-9" value="Positive (+)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="01IKL7Rib8nb02Vkke1r-4" target="01IKL7Rib8nb02Vkke1r-1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="01IKL7Rib8nb02Vkke1r-4" target="01IKL7Rib8nb02Vkke1r-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="550" as="sourcePoint" />
             <mxPoint x="770" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="01IKL7Rib8nb02Vkke1r-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="01IKL7Rib8nb02Vkke1r-9" target="01IKL7Rib8nb02Vkke1r-1">
+        <mxCell id="01IKL7Rib8nb02Vkke1r-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="01IKL7Rib8nb02Vkke1r-9" target="01IKL7Rib8nb02Vkke1r-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="660" as="sourcePoint" />
             <mxPoint x="770" y="610" as="targetPoint" />
