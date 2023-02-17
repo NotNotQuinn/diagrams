@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T17:58:27.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tu19EWNoYq3pINUkapig" version="20.8.20" type="github">
-  <diagram id="7fK4iQ0TV-qlnAj_ztaI" name="meta">
+<mxfile host="app.diagrams.net" modified="2023-02-17T18:04:35.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NkjXmiuS62QP_CGr8ssr" version="20.8.20" type="github">
+  <diagram id="7fK4iQ0TV-qlnAj_ztaI" name="social media poster">
     <mxGraphModel dx="880" dy="484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="h7UwSaR3J4pmbzhow-FZ-2" value="&lt;h1&gt;Keep in mind&lt;/h1&gt;&lt;p&gt;Stages of change are continuous, and people jump around:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pre-contemplative&lt;/li&gt;&lt;li&gt;Contemplation&lt;/li&gt;&lt;li&gt;Determination&lt;/li&gt;&lt;li&gt;Action (actually do a change)&lt;/li&gt;&lt;li&gt;Maintenance&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="496" y="78" width="345" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="lysTmKwhPcmoZfVlCbdM-1" value="Social Media Poster Thingy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="27" width="425" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
