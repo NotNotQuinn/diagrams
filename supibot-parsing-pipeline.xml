@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T03:11:41.964Z" agent="5.0 (Windows)" version="20.8.21" etag="sbk2zT5uXpwThUDVjsti" type="github"><diagram name="Page-1" id="b7sTgH9fp9FnMbA5cP2y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-08T06:13:54.499Z" agent="5.0 (Windows)" etag="qBeGmHZF3-T9bRXO50Df" version="20.8.21" type="github">
+  <diagram name="Page-1" id="b7sTgH9fp9FnMbA5cP2y">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-44" value="String" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-41" target="80EOcMqCSINZL_Bk8FIM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-41" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-61" value="Command Object" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-43" target="80EOcMqCSINZL_Bk8FIM-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-93" value="$pipe ... | alias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-43" target="80EOcMqCSINZL_Bk8FIM-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-95" value="$pipe ... | pipe" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-43" target="80EOcMqCSINZL_Bk8FIM-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-43" value="&quot;&quot;Lexer&quot;&quot;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-45" value="Lexer Tasks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-54" value="Resolve Commands (cached API)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-45">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-46" value="Resolve Aliases (API)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-45">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-47" value="Split Pipes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-45">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-48" value="Parse Parameters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-45">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-53" value="Check Validity Of Above" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-45">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-62" target="80EOcMqCSINZL_Bk8FIM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-62" value="&quot;&quot;Parser&quot;&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-67" value="Parser Tasks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-68" value="Figure out how each command&#39;s outputs connect to other commands" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-67">
+          <mxGeometry y="30" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-75" value="Command Obj." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-73" target="80EOcMqCSINZL_Bk8FIM-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-73" value="Lexer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-78" value="Data Flow List" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-74" target="80EOcMqCSINZL_Bk8FIM-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-74" value="Parser" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-77" value="string" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="80EOcMqCSINZL_Bk8FIM-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-80" value="(Step Obj.)[]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-79" target="80EOcMqCSINZL_Bk8FIM-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-79" value="Something" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-82" value="$pipe ... | pipe OR $pipe ... | alias" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-81" target="80EOcMqCSINZL_Bk8FIM-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="680" />
+              <mxPoint x="150" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-81" target="80EOcMqCSINZL_Bk8FIM-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="540" />
+              <mxPoint x="900" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-81" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-84" value="StackFrame, etc." style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="500" as="sourcePoint" />
+            <mxPoint x="1080" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-85" value="&quot;Something&quot;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-87" value="&quot;Something&quot; Tasks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="210" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-88" value="Order the commands to be executed, should be pretty ez tbh.&lt;br&gt;Format them to be executed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="80EOcMqCSINZL_Bk8FIM-87">
+          <mxGeometry y="30" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-90" value="Defer to runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-91" value="Defer to runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80EOcMqCSINZL_Bk8FIM-96" target="80EOcMqCSINZL_Bk8FIM-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="540" />
+              <mxPoint x="860" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80EOcMqCSINZL_Bk8FIM-96" value="state" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
